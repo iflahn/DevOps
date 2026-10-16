@@ -1,0 +1,839 @@
+[
+  {
+    "batch": 1,
+    "title": "DICE Attestation Architecture | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/resources/documents/dice-attestation-architecture",
+    "ref": "turn8search0",
+    "record_id": 1,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Device Identifier Composition Engine (DICE) | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/technologies/dice",
+    "ref": "turn8search1",
+    "record_id": 2,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "DICE Attestation Architecture | Trusted Computing Group",
+    "url": "https://trustedcomputinggroup.org/resource/dice-attestation-architecture/",
+    "ref": "turn8search2",
+    "record_id": 3,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "Device Identifier Composition Engine (DICE) | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/work-groups/dice",
+    "ref": "turn8search3",
+    "record_id": 4,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "FIDO Passkeys: Passwordless Authentication | FIDO Alliance",
+    "url": "https://fidoalliance.org/passkeys/",
+    "ref": "turn8search4",
+    "record_id": 5,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 1,
+    "title": "Accurately attest the integrity of devices with DICE | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/resources/blogs/accurately-attest-the-integrity-of-devices-with-dice",
+    "ref": "turn8search5",
+    "record_id": 6,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Public Review | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/specifications-public-review",
+    "ref": "turn8search6",
+    "record_id": 7,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "DICE | Trusted Computing Group",
+    "url": "https://trustedcomputinggroup.org/work-groups/dice-architectures/",
+    "ref": "turn8search7",
+    "record_id": 8,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "Synced Passkey Deployment: Emerging",
+    "url": "https://fidoalliance.org/wp-content/uploads/2024/05/Synced-Passkey-Deployment_-Emerging-Practices-for-Consumer-Use-Cases_2024-Final.pdf",
+    "ref": "turn8search36",
+    "record_id": 9,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 1,
+    "title": "Matter FAQs | Frequently Asked Questions - CSA-IOT",
+    "url": "https://csa-iot.org/all-solutions/matter/matter-faq/",
+    "ref": "turn8search8",
+    "record_id": 10,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Passkeys | FIDO Alliance",
+    "url": "https://fidoalliance.org/passkeys-2/",
+    "ref": "turn8search9",
+    "record_id": 11,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "Attestation | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/work-groups/attestation",
+    "ref": "turn8search10",
+    "record_id": 12,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "White Paper: FIDO Authentication for Moderate Assurance Use Cases | FIDO Alliance",
+    "url": "https://fidoalliance.org/white-paper-fido-authentication-for-moderate-assurance-use-cases/",
+    "ref": "turn8search11",
+    "record_id": 13,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "New TCG guidance creates low-cost attestation architecture to establish trust in devices | Trusted Computing Group",
+    "url": "https://trustedcomputinggroup.org/new-tcg-guidance-creates-low-cost-attestation-architecture-to-establish-trust-in-devices/",
+    "ref": "turn8search12",
+    "record_id": 14,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "TCG Trusted Attestation Protocol (TAP) Information Model for TPM Families 1.2 and 2.0 and DICE Family 1.0 | Trusted Computing Group",
+    "url": "https://trustedcomputinggroup.org/resource/tcg-tap-information-model/",
+    "ref": "turn8search13",
+    "record_id": 15,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "About TCG | Trusted Computing Group",
+    "url": "https://www.trustedcomputinggroup.org/about",
+    "ref": "turn8search14",
+    "record_id": 16,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "TCG Trusted Attestation Protocol (TAP) Use Cases for TPM Families 1.2 and 2.0 and DICE | Trusted Computing Group",
+    "url": "https://trustedcomputinggroup.org/resource/tcg-trusted-attestation-protocol-tap-use-cases-for-tpm-families-1-2-and-2-0-and-dice/",
+    "ref": "turn8search15",
+    "record_id": 17,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "White Paper: High Assurance Enterprise FIDO Authentication | FIDO Alliance",
+    "url": "https://fidoalliance.org/white-paper-high-assurance-enterprise-fido-authentication/",
+    "ref": "turn8search16",
+    "record_id": 18,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "FIDO Directory of Passkey Implementations | FIDO Alliance",
+    "url": "https://fidoalliance.org/passkeys-directory/?trk=article-ssr-frontend-pulse_little-text-block",
+    "ref": "turn8search17",
+    "record_id": 19,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Matter Specification",
+    "url": "https://csa-iot.org/wp-content/uploads/2023/05/22-27349-002_matter-1-1-core-specification.pdf",
+    "ref": "turn8search37",
+    "record_id": 20,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 1,
+    "title": "White Paper: High Assurance Enterprise FIDO Authentication | FIDO Alliance",
+    "url": "https://fidoalliance.org/white-paper-high-assurance-enterprise-fido-authentication/?query-cdbd12d0-page=16",
+    "ref": "turn8search18",
+    "record_id": 21,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "Matter 1.4.2 | Enhancing Security and Scalability for Smart Homes - CSA-IOT",
+    "url": "https://csa-iot.org/newsroom/matter-1-4-2-enhancing-security-and-scalability-for-smart-homes/",
+    "ref": "turn8search19",
+    "record_id": 22,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 1,
+    "title": "DICE Attestation Architecture",
+    "url": "https://trustedcomputinggroup.org/wp-content/uploads/TCG_DICE_Attestation_Architecture_r22_02dec2020.pdf",
+    "ref": "turn8search38",
+    "record_id": 23,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 1,
+    "title": "Details on Google's implementation of passkeys",
+    "url": "https://groups.google.com/a/fidoalliance.org/g/fido-dev/c/nhpxExcofb8/m/HazVzdMXBQAJ",
+    "ref": "turn8search20",
+    "record_id": 24,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Build With Matter | Smart Home Device Solution",
+    "url": "https://csa-iot.org/all-solutions/matter/",
+    "ref": "turn8search21",
+    "record_id": 25,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "FIDO Passkeys: Passwordless Authentication | FIDO Alliance",
+    "url": "https://fidoalliance.org/passkeys/?adobe_mc=MCMID%3D18762399087338853960484028289037634265MCORGID%3DA8833BC75245AF9E0A490D4D%40AdobeOrgTS%3D1784021564",
+    "ref": "turn8search22",
+    "record_id": 26,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 1,
+    "title": "Product Secuirty FAQs | Frequently Asked Questions - CSA-IOT",
+    "url": "https://csa-iot.org/all-solutions/product-security-faq/",
+    "ref": "turn8search23",
+    "record_id": 27,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Device-bound passkeys created in Chrome not discoverable in app",
+    "url": "https://groups.google.com/a/fidoalliance.org/g/fido-dev/c/PR7odWKccwA",
+    "ref": "turn8search24",
+    "record_id": 28,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Microsoft PowerPoint - Silviu_Vlasceanu_D2-3_Vlasceanu.pptx",
+    "url": "https://docbox.etsi.org/Workshop/2023/10_ETSISECURITYCONFERENCE/D23_ZEROTRUST_PART2/TCG_VLASCEANU.pdf",
+    "ref": "turn8search39",
+    "record_id": 29,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "The Connectivity Standards Alliance Product Security Working Group Launches the IoT Device Security Specification 1.0 - CSA-IOT",
+    "url": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-product-security-working-group-launches-the-iot-device-security-specification-1-0/",
+    "ref": "turn8search25",
+    "record_id": 30,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Certification Process | Why Certify | - CSA-IOT",
+    "url": "https://csa-iot.org/certification/why-certify/",
+    "ref": "turn8search26",
+    "record_id": 31,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Product Security | Connectivity Standards Alliance - CSA-IOT",
+    "url": "https://csa-iot.org/all-solutions/product-security/",
+    "ref": "turn8search27",
+    "record_id": 32,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Passkey Security - OWASP Cheat Sheet Series",
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Passkey_Security_Cheat_Sheet.html",
+    "ref": "turn8search28",
+    "record_id": 33,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Passkey FAQs - Microsoft Entra ID | Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/entra/identity/authentication/passkey-faq",
+    "ref": "turn8search29",
+    "record_id": 34,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Synced vs Device-Bound Passkeys: Which to Use When | Mono Training",
+    "url": "https://mono-training.com/insights-synced-vs-device-bound-passkeys",
+    "ref": "turn8search30",
+    "record_id": 35,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "A TOCTOU Attack on DICE Attestation",
+    "url": "https://arxiv.org/abs/2201.11764",
+    "ref": "turn8academia40",
+    "record_id": 36,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "CSA - Matter, Zigbee & Aliro - Connectivity Standards Alliance",
+    "url": "https://csa-iot.org/",
+    "ref": "turn8search31",
+    "record_id": 37,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Device Attestation Model in",
+    "url": "https://kib.kiev.ua/x86docs/Intel/TDX/351998-002.pdf",
+    "ref": "turn8search41",
+    "record_id": 38,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Device-Bound vs. Synced Credentials: A Comparative Evaluation of Passkey Authentication",
+    "url": "https://arxiv.org/abs/2501.07380",
+    "ref": "turn8academia42",
+    "record_id": 39,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux",
+    "url": "https://arxiv.org/abs/2609.20909",
+    "ref": "turn8academia43",
+    "record_id": 40,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Matter Security \u2014 Matter 2.3.1-1.3 documentation",
+    "url": "https://siliconlabs.github.io/matter/latest/general/SECURITY.html",
+    "ref": "turn8search32",
+    "record_id": 41,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Hardware-based remote attestation paper (normalized title)",
+    "url": "https://www.ndss-symposium.org/wp-content/uploads/2018/07/diss2018_11_Hristozov_paper.pdf",
+    "ref": "turn8search44",
+    "record_id": 42,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Matter Device Attestation \u2014 Matter 2.3.1-1.3 documentation",
+    "url": "https://siliconlabs.github.io/matter/latest/production/CPMS_ATTESTATION.html",
+    "ref": "turn8search33",
+    "record_id": 43,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Matter 1.2 Specification: Smart Home Interoperability Standard",
+    "url": "https://studylib.net/doc/28620682/matter-1.2-core-specification",
+    "ref": "turn8search34",
+    "record_id": 44,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Operational Credentials - Matter Survey",
+    "url": "https://www.matter-survey.org/cluster/0x003E",
+    "ref": "turn8search35",
+    "record_id": 45,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "TPM-Based Continuous Remote Attestation and Integrity Verification for 5G VNFs on Kubernetes",
+    "url": "https://arxiv.org/abs/2510.03219",
+    "ref": "turn8academia45",
+    "record_id": 46,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Direct Anonymous Attestation",
+    "url": "https://en.wikipedia.org/wiki/Direct_Anonymous_Attestation",
+    "ref": "turn8search46",
+    "record_id": 47,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Trusted Computing",
+    "url": "https://en.wikipedia.org/wiki/Trusted_Computing",
+    "ref": "turn8search47",
+    "record_id": 48,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Synced iCloud Keychain passkey registration succeeds despite Device-Bound-only passkey profile",
+    "url": "https://www.reddit.com/r/entra/comments/1x0xsp1/synced_icloud_keychain_passkey_registration/",
+    "ref": "turn8reddit48",
+    "record_id": 49,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Synced passkeys ios not working",
+    "url": "https://www.reddit.com/r/entra/comments/1qfshux/synced_passkeys_ios_not_working/",
+    "ref": "turn8reddit49",
+    "record_id": 50,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Can cross-device auth be completed with both synced and device-bound passkeys?",
+    "url": "https://www.reddit.com/r/Passkeys/comments/1boh7t1",
+    "ref": "turn8reddit50",
+    "record_id": 51,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "One Tech Tip: Replacing passwords with passkeys for an easier login experience",
+    "url": "https://apnews.com/article/e058dbdd304ff90c9b49499cd121bb88",
+    "ref": "turn8news51",
+    "record_id": 52,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Trusted Computing Group",
+    "url": "https://en.wikipedia.org/wiki/Trusted_Computing_Group",
+    "ref": "turn8search52",
+    "record_id": 53,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 1,
+    "title": "Hardware-bound passkeys on Android",
+    "url": "https://www.reddit.com/r/Passkeys/comments/1tfsukp/hardwarebound_passkeys_on_android/",
+    "ref": "turn8reddit53",
+    "record_id": 54,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-Based Access Control Policies",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/abac-mining-TDSC.html",
+    "ref": "turn9search0",
+    "record_id": 55,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Relationship-Based Access Control Policies from Incomplete and Noisy Data",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/fps2018.html",
+    "ref": "turn9search1",
+    "record_id": 56,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Security Policy Mining",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/policy-mining/",
+    "ref": "turn9search2",
+    "record_id": 57,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Relationship-Based Access Control Policies",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/rebac-mining.html",
+    "ref": "turn9search3",
+    "record_id": 58,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Relationship-Based Access Control Policies",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/sacmat2017.html",
+    "ref": "turn9search4",
+    "record_id": 59,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-based Access Control Policies",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/papers/1306.2401v4.pdf",
+    "ref": "turn9search24",
+    "record_id": 60,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Software from Scott Stoller's Research Group",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/software/",
+    "ref": "turn9search5",
+    "record_id": 61,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "A blockchain-assisted lightweight authentication scheme for smart home environments - ScienceDirect",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1084804525002942",
+    "ref": "turn9search6",
+    "record_id": 62,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 2,
+    "title": "Mining attribute-based access control policies from RBAC policies - Stony Brook University",
+    "url": "https://researchconnect.stonybrook.edu/en/publications/mining-attribute-based-access-control-policies-from-rbac-policies/",
+    "ref": "turn9search7",
+    "record_id": 63,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-Based Access Control Policies from RBAC Policies",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/abac-from-rbac/",
+    "ref": "turn9search8",
+    "record_id": 64,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Z",
+    "url": "https://www3.cs.stonybrook.edu/~stoller/papers/abac-mining-TDSC.pdf",
+    "ref": "turn9search25",
+    "record_id": 65,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 2,
+    "title": "DIDAuth-IoTFW: Decentralized firmware authentication for smart home IoT devices using verifiable credentials - ScienceDirect",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2542660525003026",
+    "ref": "turn9search9",
+    "record_id": 66,
+    "decision": "retain",
+    "reason": "Directly addresses a targeted gap; technical source or publisher abstract checked"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-based Access Control Policies",
+    "url": "https://studylib.net/doc/18550560/mining-attribute-based-access-control-policies",
+    "ref": "turn9search10",
+    "record_id": 67,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Mining hierarchical temporal roles with multiple metrics - Scott\u00a0D. Stoller, Thang Bui, 2017",
+    "url": "https://doi.org/10.3233/JCS-17989",
+    "ref": "turn9search11",
+    "record_id": 68,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Blockchain-enabled secure energy trading in smart home devices - ScienceDirect",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378779626004062",
+    "ref": "turn9search12",
+    "record_id": 69,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "\"Mining Meaningful Role-Based and Attribute-Based Access Control Polici\" by Zhongyuan Xu",
+    "url": "https://commons.library.stonybrook.edu/stony-brook-theses-and-dissertations-collection/3138/",
+    "ref": "turn9search13",
+    "record_id": 70,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-Based Access Control Policies | Request PDF",
+    "url": "https://www.researchgate.net/publication/304404270_Mining_Attribute-Based_Access_Control_Policies",
+    "ref": "turn9search14",
+    "record_id": 71,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-based Access Control Policies",
+    "url": "https://arxiv.org/abs/1306.2401",
+    "ref": "turn9academia26",
+    "record_id": 72,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Secure and sustainable smart home networks with blockchain-based IoT framework for privacy and energy efficiency | Discover Internet of Things | Springer Nature Link",
+    "url": "https://doi.org/10.1007/s43926-026-00297-8",
+    "ref": "turn9search15",
+    "record_id": 73,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Optimizing Smart-Home Energy Systems Through Energy-Efficient Off-Chain Blockchain-Based Attribute-Based Access Control (ABAC): A Hybrid LightGBM Approach",
+    "url": "https://www.mdpi.com/1996-1073/19/10/2279",
+    "ref": "turn9search16",
+    "record_id": 74,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Attribute-Based Access Control Policies from Logs",
+    "url": "https://arxiv.org/abs/1403.5715",
+    "ref": "turn9academia27",
+    "record_id": 75,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Aggregate Signature Authentication Scheme Based on Blockchain in Smart Home Network",
+    "url": "https://eurekamag.com/research/110/930/110930697.php",
+    "ref": "turn9search17",
+    "record_id": 76,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "An ECC- and OT-based privacy-preserving authentication scheme for smart home systems | Journal of King Saud University Computer and Information Sciences | Springer Nature Link",
+    "url": "https://link.springer.com/article/10.1007/s44443-026-01142-2",
+    "ref": "turn9search18",
+    "record_id": 77,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Secure and sustainable smart home networks with blockchain-based IoT framework for privacy and energy efficiency | Discover Internet of Things | Springer Nature Link",
+    "url": "https://link.springer.com/article/10.1007/s43926-026-00297-8",
+    "ref": "turn9search19",
+    "record_id": 78,
+    "decision": "duplicate",
+    "reason": "Alternative URL/version/summary of a record represented elsewhere"
+  },
+  {
+    "batch": 2,
+    "title": "Hybrid Privacy-Preserving Access Control Mechanism Using Blockchain and Attribute-Based Access Control for Smart Home",
+    "url": "https://eurekamag.com/research/102/510/102510057.php",
+    "ref": "turn9search20",
+    "record_id": 79,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Frontiers | A secure authentication scheme for smart home environments: a biometric-driven approach",
+    "url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1669659/full",
+    "ref": "turn9search21",
+    "record_id": 80,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Hybrid AI-IoT-Blockchain frameworks for energy-efficient smart homes: a multidimensional review of technologies, policies, and socioeconomic implications - ScienceDirect",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0378778826004196",
+    "ref": "turn9search22",
+    "record_id": 81,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Blockchain-Based Robust Data Security Scheme in IoT-Enabled Smart Home - ScienceDirect",
+    "url": "https://www.sciencedirect.com/org/science/article/pii/S1546221822014588",
+    "ref": "turn9search23",
+    "record_id": 82,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Learning Attribute-Based and Relationship-Based Access Control Policies with Unknown Values",
+    "url": "https://arxiv.org/abs/2008.08444",
+    "ref": "turn9academia28",
+    "record_id": 83,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "\u00a9 April 2026 | IJIRT | Volume 12 Issue 11 | ISSN: 2349-6002",
+    "url": "https://ijirt.org/publishedpaper/IJIRT197455_PAPER.pdf",
+    "ref": "turn9search29",
+    "record_id": 84,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Mining Hierarchical Temporal Roles with Multiple Metrics",
+    "url": "https://arxiv.org/abs/1603.02640",
+    "ref": "turn9academia30",
+    "record_id": 85,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Journal of Computer Science",
+    "url": "https://thescipub.com/pdf/jcssp.2026.1083.1099.pdf",
+    "ref": "turn9search31",
+    "record_id": 86,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Performance Analysis of Block\u2013Internet of Things\u2013Chain (BIoTC) Framework for Smart Home",
+    "url": "https://ojs.bonviewpress.com/index.php/JCCE/article/download/7670/1894/47163",
+    "ref": "turn9search32",
+    "record_id": 87,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Computer access control",
+    "url": "https://en.wikipedia.org/wiki/Computer_access_control",
+    "ref": "turn9search33",
+    "record_id": 88,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Role-based access control",
+    "url": "https://en.wikipedia.org/wiki/Role-based_access_control",
+    "ref": "turn9search34",
+    "record_id": 89,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Access control",
+    "url": "https://en.wikipedia.org/wiki/Access_control",
+    "ref": "turn9search35",
+    "record_id": 90,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Attribute-based access control",
+    "url": "https://en.wikipedia.org/wiki/Attribute-based_access_control",
+    "ref": "turn9search36",
+    "record_id": 91,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "XACML",
+    "url": "https://en.wikipedia.org/wiki/XACML",
+    "ref": "turn9search37",
+    "record_id": 92,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  },
+  {
+    "batch": 2,
+    "title": "Attribute-based encryption",
+    "url": "https://en.wikipedia.org/wiki/Attribute-based_encryption",
+    "ref": "turn9search38",
+    "record_id": 93,
+    "decision": "exclude",
+    "reason": "Not selected for bounded update: indirect source, general background, or different mechanism/application"
+  }
+]

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: Please cite this reproducibility companion and the associated manuscript when using the code or generated instances.
+title: MSIPS scenario-aware identity evidence selection reproducibility companion
+version: 2.0.0
+date-released: 2026-10-16
+authors:
+  - family-names: Aijaz
+    given-names: Iflah
+repository-code: https://github.com/iflahn/DevOps/tree/master/MSIPS
+keywords:
+  - smart homes
+  - identity evidence
+  - robust selection
+  - synthetic benchmark

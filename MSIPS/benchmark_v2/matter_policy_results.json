@@ -1,0 +1,77 @@
+{
+  "source": "Matter SDK Access Control Guide",
+  "source_url": "https://project-chip.github.io/connectedhomeip-doc/guides/access-control-guide.html",
+  "accessed": "2026-10-16",
+  "acl": [
+    {
+      "fabric": 1,
+      "privilege": 5,
+      "authMode": "CASE",
+      "subjects": [
+        112233
+      ],
+      "targets": null
+    },
+    {
+      "fabric": 1,
+      "privilege": 3,
+      "authMode": "CASE",
+      "subjects": [
+        4444
+      ],
+      "targets": [
+        {
+          "cluster": 6,
+          "endpoint": 1
+        }
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "fabric": 1,
+      "authMode": "CASE",
+      "subject": 4444,
+      "cluster": 6,
+      "endpoint": 1,
+      "required_privilege": 3
+    },
+    {
+      "fabric": 1,
+      "authMode": "CASE",
+      "subject": 5555,
+      "cluster": 6,
+      "endpoint": 1,
+      "required_privilege": 3
+    },
+    {
+      "fabric": 1,
+      "authMode": "CASE",
+      "subject": 4444,
+      "cluster": 8,
+      "endpoint": 1,
+      "required_privilege": 3
+    },
+    {
+      "fabric": 1,
+      "authMode": "CASE",
+      "subject": 4444,
+      "cluster": 6,
+      "endpoint": 1,
+      "required_privilege": 5
+    }
+  ],
+  "expected": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "actual": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "scope": "Schema-derived illustration, not a normative conformance test or execution of a Matter stack"
+}

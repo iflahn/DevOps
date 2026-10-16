@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-10-16",
+    "engine": "public web search",
+    "queries": [
+      {
+        "q": "site.csa-iot.org Matter security device attestation operational credentials access control"
+      },
+      {
+        "q": "site.fidoalliance.org passkeys device bound synced recovery"
+      },
+      {
+        "q": "site.trustedcomputinggroup.org DICE attestation architecture TPM"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "engine": "public web search",
+    "queries": [
+      {
+        "q": "site.cs.stonybrook.edu stoller mining attribute based access control policies"
+      },
+      {
+        "q": "\"smart home\" \"blockchain\" \"authentication\" \"2024\" \"2025\" \"2026\""
+      }
+    ]
+  }
+]
